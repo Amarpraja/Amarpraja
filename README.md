@@ -1,5 +1,5 @@
 # 💫 About Me:
- Amar Kumar Prajapati<br> Python Developer | AI & Data Analytics <br><br>🌟 About Me<br>> 🎓 B.Tech in Information Technology at D Y Patil University, Pune<br>> 💻 Passionate about Python, AI/ML, Data Analytics & Web Development<br>> 🌱 Currently learning Advanced Django, Machine Learning & Cloud Computing<br>> 🔥 Interested in building scalable and user-friendly applications<br>> ⚡ Quick learner and problem solver<br><br><br>📌 Projects<br><br> 📈 Stock Market Price Prediction<br>- Built ML/DL models using LSTM, ARIMA & XGBoost<br>- Predicted stock prices using historical & live data<br>- Deployed using Streamlit<br>Tech Used:  Python, ML, LSTM, ARIMA, XGBoost<br><br>📊 Sales Data Analysis<br>- Analyzed sales data to identify trends<br>- Created monthly revenue insights & visualizations<br><br>**Tech Used:** Python, Pandas, Matplotlib, Excel<br><br>---<br><br> 🏆 Certifications<br>- Data Analytics – Coursera<br>- Mastering the Essential Python – Cisco Network Academy<br>- SQL and MYSQL – Scaler<br>- Tableau Data Visualization – Spartificial Innovation<br><br>
+ Amar Kumar Prajapati<br> Python Developer | AI & Data Analytics <br><br>🌟 About Me<br>> 🎓 B.Tech in Information Technology at D Y Patil University, Pune<br>> 💻 Passionate about Python, AI/ML, Data Analytics & Web Development<br>> 🌱 Currently learning Advanced Django, Machine Learning & Cloud Computing<br>> 🔥 Interested in building scalable and user-friendly applications<br>> ⚡ Quick learner and problem solver<br>📌 Projects<br> 📈 Stock Market Price Prediction<br>>  Built ML/DL models using LSTM, ARIMA & XGBoost<br>>  Predicted stock prices using historical & live data<br>> Deployed using Streamlit<br>Tech Used:  Python, ML, LSTM, ARIMA, XGBoost<br>📊 Sales Data Analysis<br>> Analyzed sales data to identify trends<br>> Created monthly revenue insights & visualizations<br>Tech Used:Python, Pandas, Matplotlib, Excel<br> 🏆 Certifications<br>>  Data Analytics – Coursera<br>>  Mastering the Essential Python – Cisco Network Academy<br>>  SQL and MYSQL – Scaler<br>> Tableau Data Visualization – Spartificial Innovation<br><br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,16 @@
 ![](https://streak-stats.demolab.com/?user=/Amarpraja&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=/Amarpraja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=/Amarpraja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=/Amarpraja&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ---
-[![](https://komarev.com/ghpvc/?username=/Amarpraja&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=/Amarpraja&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
